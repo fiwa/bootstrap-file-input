@@ -2,10 +2,11 @@
   Bootstrap - File Input
   ======================
 
-  Original developted by https://github.com/grevory/bootstrap-file-input  
-  Modified by Britny
+  Original developted by: https://github.com/grevory/bootstrap-file-input  
+  Modified at: https://github.com/fiwa/bootstrap-file-input
 
 */
+
 $(function() {
 
 $('input[type=file]').each(function(i,elem){
