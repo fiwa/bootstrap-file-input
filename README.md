@@ -1,7 +1,7 @@
 Bootstrap file input
 ====================
 
-A custom file input for @twitter bootstrap.
+Standardizes the file input field to look like a Bootstrap button in all browsers.
 
 ## Original
 
